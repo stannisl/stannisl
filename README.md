@@ -35,6 +35,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=pycharm&logoColor=fff)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stannisl&theme=github_dark) 
 <!--
 **stannisl/stannisl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
