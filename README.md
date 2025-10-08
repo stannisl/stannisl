@@ -5,8 +5,8 @@ Go Backend-разработчик | Backend Engineer | Gin, PostgreSQL, RabbitMQ
 ---
 
 ## 📖 About Me
-- 🧑‍💻 Junior Go Backend-разработчик, осознанно перешедший с Java на Go
-- 🎓 Студент Института ИТиУС БГТУ имени В.Г. Шухова
+- 🧑‍💻 Go Backend-разработчик, перешедший с Java на Go
+- 🎓 Студент Института ИТУС БГТУ имени В.Г. Шухова
 - 🌱 Постоянно развиваюсь в Go, Backend и DevOps
 - ⚡ Люблю создавать надёжные сервисы с REST API и фоновой обработкой задач
 
@@ -20,12 +20,16 @@ Go Backend-разработчик | Backend Engineer | Gin, PostgreSQL, RabbitMQ
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 **Frameworks & Libraries**  
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=fff)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 **Databases & Cache**  
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -35,10 +39,11 @@ Go Backend-разработчик | Backend Engineer | Gin, PostgreSQL, RabbitMQ
 **DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-007ACC?style=for-the-badge)
 
----
 
 ## 🎓 Education
 - **BSTU им. В.Г. Шухова** — Software Engineer student  
